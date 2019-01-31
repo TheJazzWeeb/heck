@@ -4,4 +4,40 @@ text-align: center;
 
 section{ 
 border: 5px solid blue;
-padding: 50px}
+padding: 50px;
+margin: 50px}
+
+table{
+cellspacing="0";
+cellpadding="0"
+padding:3px;
+border: 3px solid red;}
+
+tr, td {
+border: 3px solid green }
+
+th {
+text-aligh: center;
+border: 3px solid blue}
+
+#TableHeaders{
+text-align:center;
+text-decoration: underline}
+
+a:hover{
+color: pink}
+
+a:visited{
+color: orange}
+
+a:link{
+color: neongreen, green}
+
+
+
+#carcaption{
+color: green;
+text-decoration: underline;
+font-size: 30px;
+font-family: miriam, impact;
+}
